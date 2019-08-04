@@ -54,27 +54,21 @@ body {
 
     background-color: #4aaaa5;
     color: #ffffff;
-    height: 60%;
-    width: 100%;
+    height: 100%;
+    width: 50%;
     display: block;
     text-align: center;
+    
 }
 
-#▉▊links {
 
-    height: 40%;
-    width: 100%;
-    display: block;
-    text-align: center;
-    margin-top: 30px;
-}
 
 header {
 
     width: 100%;
     margin: auto;
     background-color: #ffffff;
-    height: 200%;
+    height: 100%;
     border-bottom: solid #cccccc;
     border-width: 1px
 }
@@ -99,6 +93,30 @@ header {
 }
 
 
+    /*============================================= PORTFOLIO.HTML =============================================*/
+
+    .▉▊img {
+        width: 320px;
+        height: 241px;
+        background-size: cover;
+        margin: 0 auto 0 auto;
+        float: none;
+        display: inline-block;
+    
+    }
+    
+
+
+    /*============================================= CONTACT.HTML =============================================*/
+
+
+input[type=text] {
+    width: 80%;
+    height: 20px;
+    margin: 5px 0 15px 0;
+    padding: 12px 20px;
+    font-size: large;
+    color: #4b4b4b
 }
     
     /*▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉ 640px ▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉*/
@@ -195,7 +213,31 @@ header {
 
     /*============================================= CONTACT.HTML =============================================*/
 
-
+    .▉▊forms {
+        color: #777777;
+    }
+    
+    input[type=text] {
+        width: 80%;
+        height: 20px;
+        margin: 5px 0 15px 0;
+        padding: 12px 20px;
+        font-size: large;
+        color: #4b4b4b
+    }
+    
+    button {
+        background-color: #4aaaa5;
+        padding: 15px 25px 15px 25px;
+        font-size: 15px;
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+        color: #ffffff
+    }
+    
+    button:hover {
+        background-color: #439793;
+        color: #eeeeee;
+    }
 
 
 
