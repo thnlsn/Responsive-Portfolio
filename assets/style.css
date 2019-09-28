@@ -195,27 +195,27 @@ footer {
 }
 
 .hangman {
-    background-image: url("../images/port1.jpg");
+    background-image: url("../images/orecollector.png");
 }
 
 .tictactoe {
-    background-image: url("../images/port2.jpg");
+    background-image: url("../images/trainschedule.png");
 }
 
 .rockpaperscissors {
-    background-image: url("../images/port3.jpg");
+    background-image: url("../images/triviagame.png");
 }
 
 .asteroids {
-    background-image: url("../images/port4.jpg");
+    background-image: url("../images/mtgrpggame.png");
 }
 
 .pacman {
-    background-image: url("../images/port5.jpg");
+    background-image: url("../images/giftastic.png");
 }
 
 .solitaire {
-    background-image: url("../images/port6.jpg");
+    background-image: url("../images/guessthatpokemon.png");
 }
 
 .imgtext {
